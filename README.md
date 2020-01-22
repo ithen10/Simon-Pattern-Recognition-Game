@@ -1,0 +1,2 @@
+# Simon-Pattern-Recognition-Game
+My teammate and I made this as our final project for ECE 312: Embedded Systems Design in 2019. The goal of the game is to memorize a pattern made by a series of lights and mimic it. The series of lights increases by 1 with each successful turn. At the end of the game, the user's score is recorded and compared to with a high score. A pseudo-random pattern is generated each time for a new user. 
